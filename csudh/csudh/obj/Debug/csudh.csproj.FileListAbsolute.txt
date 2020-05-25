@@ -1,0 +1,7 @@
+C:\Users\bence\source\repos\csudh\csudh\bin\Debug\csudh.txt
+C:\Users\bence\source\repos\csudh\csudh\bin\Debug\csudh.exe.config
+C:\Users\bence\source\repos\csudh\csudh\bin\Debug\csudh.exe
+C:\Users\bence\source\repos\csudh\csudh\bin\Debug\csudh.pdb
+C:\Users\bence\source\repos\csudh\csudh\obj\Debug\csudh.csprojAssemblyReference.cache
+C:\Users\bence\source\repos\csudh\csudh\obj\Debug\csudh.exe
+C:\Users\bence\source\repos\csudh\csudh\obj\Debug\csudh.pdb
